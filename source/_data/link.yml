@@ -1,5 +1,5 @@
 class:
-  class_name: 友情链接
+  class_name: 暂无分类
   link_list:
     1:
       name: 云玩家
@@ -11,21 +11,11 @@ class:
       link: https://chenadian.gitee.io
       avatar: https://chenadian.gitee.io/medias/avatar.jpg
       descr: 分享生活的小博客
-    3:
-      name: 果果小师弟
-      link: https://www.liuyao-blog.cn
-      avatar: https://www.liuyao-blog.cn/medias/avatar.jpg
-      descr: 一个喜欢嵌入式的小码农
     4:
       name: 水寒的博客
       link: https://dp2px.com
       avatar: https://dp2px.com/images/download_head.png
       descr: 物联网应用开发、Android应用开发、Web前端开发技术
-    6:
-      name: JingFengJi
-      link: http://www.jingfengji.tech
-      avatar: http://www.jingfengji.tech/img/avatar.jpg
-      descr: Game Developer, Game Coder
     7:
       name: 🌸花村游戏厅
       link: https://blog.whutb.com
@@ -46,12 +36,39 @@ class:
       link: https://boyinthesun.cn
       avatar: https://boyinthesun.cn/medias/avatar.jpg
       descr: 记录踩坑经历，承载成长历程
-    11:
+    3:
       name: 栖枝perch
       link: https://520526.xyz
       avatar: https://gitee.com/dperch/PicGo/raw/master/img/20200319033616.jpg
       descr:  用心创造设计，改变生活
-    12:
+class2:
+  class_name: 嵌入式
+  link_list:
+    1:
+      name: 果果小师弟
+      link: https://www.liuyao-blog.cn
+      avatar: https://www.liuyao-blog.cn/medias/avatar.jpg
+      descr: 一个喜欢嵌入式的小码农
+class3:
+  class_name: 游戏开发者
+  link_list:
+    1:
+      name: JingFengJi
+      link: http://www.jingfengji.tech
+      avatar: http://www.jingfengji.tech/img/avatar.jpg
+      descr: Game Developer, Game Coder
+class4:
+  class_name: 网络安全
+  link_list:
+    1:
+      name: Mr.W
+      link: https://whloki.gitee.io/
+      avatar: https://whloki.gitee.io/medias/1.jpg
+      descr: 在校大学生，努力成为一名优秀的CTFer
+class5:
+  class_name: 大数据
+  link_list:
+    1:
       name: 会飞的小弋
       link: https://lovelijunyi.gitee.io/
       avatar: https://gitee.com/lovelijunyi/images/raw/master/20200404135847.jpg
